@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASA IP", "ASA IP\ASA IP.csproj", "{8F7EE839-6059-465D-A858-533EF8F26C34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F7EE839-6059-465D-A858-533EF8F26C34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7EE839-6059-465D-A858-533EF8F26C34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7EE839-6059-465D-A858-533EF8F26C34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7EE839-6059-465D-A858-533EF8F26C34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91F5D891-B14F-4ECF-A4CB-7EBC1E7B9A73}
+	EndGlobalSection
+EndGlobal
